@@ -1,8 +1,7 @@
 l version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.khmer" name="Khmer Repo" version="2.02" provider-name="ry0an">
 	<extension point="xbmc.addon.repository" name="Khmer Repo">
-		<info compressed="false">http://raw.githubusercontent.com/goupon/file/master/addons.xml</info>
-		<checksum>http://raw.githubusercontent.com/goupon/file/master/addons.xml.md5</checksum>
+		<info compressed="false">https://raw.githubusercontent.com/ry0an/khm3r/main/addons.xml</info>
 		<datadir zip="true">http://raw.githubusercontent.com/goupon/file/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
