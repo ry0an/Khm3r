@@ -1,11 +1,11 @@
 l version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.khmer" name="Khmer Repo" version="2.02" provider-name="ry0an">
+<addon id="repository.khmer" name="Khmer Repo" version="1.0" provider-name="ry0an">
 	<extension point="xbmc.addon.repository" name="Khmer Repo">
 		<info compressed="false">https://raw.githubusercontent.com/ry0an/khm3r/main/addons.xml</info>
 		<datadir zip="true">https://raw.githubusercontent.com/ry0an/khm3r/main/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>The best Khmer Dubbed addons by Dknlght and Price.  Updated by goupon</summary>
+		<summary>The best Khmer Dubbed addons by Dknlght,Price, goupon.  Updated by ry0an</summary>
 		<description>https://forum.kodi.tv/showthread.php?tid=130566</description>
 		<platform>all</platform>
 	</extension>
